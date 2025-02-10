@@ -3,3 +3,4 @@ function add(a, b) {
 }
 
 add(3, 5); 
+add(3, 7); 
